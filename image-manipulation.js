@@ -25,5 +25,5 @@ function MM_preloadImages() { //v3.0
   }
   
   var previousOnload = window.onload;
-  window.onload = function () { if(previousOnload) previousOnload();  MM_preloadImages('../images/nav/nav_who_we_are_over.jpg','../images/nav/nav_residential_over.jpg','../images/nav/nav_business_over.jpg','../images/nav/nav_cirra_rewards_over.jpg','../images/nav/nav_signup_over.jpg','images/nav/nav_support_over.jpg','images/nav/nav_news_over.jpg')
+  window.onload = function () { if(previousOnload) previousOnload();  MM_preloadImages('../images/nav/nav kst.jpg','../images/nav/overclock.jpg','../images/nav/this image.jpg','../images/nav/that Image.jpg','../images/nav/the another image.jpg','images/nav/this is image.jpg','images/nav/last image.jpg')
   }
